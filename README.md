@@ -1,6 +1,6 @@
 ### Registering a User
 
-POST https://localhost:3000/users
+POST https://nodeautentication.onrender.com/users/
 Content-Type: application/json
 
 {   
@@ -14,7 +14,7 @@ Content-Type: application/json
 ### User Login
 
 
-POST https://localhost:3000/login
+POST https://nodeautentication.onrender.com/login/
 Content-Type: application/json
 
 {   
